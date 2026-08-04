@@ -40,6 +40,7 @@ A neural network model (MLP) is implemented using PyTorch:
 * Precision: **88.16%**
 * Recall: **87.36%**
 * F1-score: **87.76%**
+<img width="449" height="334" alt="image" src="https://github.com/user-attachments/assets/612d0c99-b55f-4370-ac7b-68f3a33f3d04" />
 
 ### CountVectorizer + TF-IDF
 
@@ -47,6 +48,7 @@ A neural network model (MLP) is implemented using PyTorch:
 * Precision: **88.71%**
 * Recall: **86.60%**
 * F1-score: **87.65%**
+<img width="389" height="323" alt="image" src="https://github.com/user-attachments/assets/b53d1de9-ac9d-4ebe-949f-33984aa1a6ff" />
 
 ---
 
